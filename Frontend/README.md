@@ -10,8 +10,8 @@
 
 ## Tech-stack and framework
 
-- ReactJS Redux Firebase MongoDb Express Node Bootstrap Ant-design CSS React-toolkit
-
+-
+ ReactJS Redux Firebase MongoDb Express Node Bootstrap Ant-design CSS React-toolkit
 
 ## Features
 
