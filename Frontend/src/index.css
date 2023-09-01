@@ -1,0 +1,8 @@
+.slider img,
+.default-card-image {
+  height: 450px;
+  object-fit: cover;
+}
+.pointer{
+  cursor: pointer;
+}
